@@ -84,7 +84,7 @@ Marker scores were calculated for each compartment, and cells were assigned to t
 
 #### T Cell DDR Dynamics
 
-![T cell DDR](figures/tcell_ddr_time.png)
+![T cell DDR](figures/Tcells_timebased.png)
 
 ---
 
@@ -97,7 +97,7 @@ Marker scores were calculated for each compartment, and cells were assigned to t
 
 #### B Cell DDR Landscape
 
-![B cell DDR](figures/bcell_ddr_time.png)
+![B cell DDR](figures/b_cells_DDR.png)
 
 ---
 
@@ -110,7 +110,7 @@ Marker scores were calculated for each compartment, and cells were assigned to t
 
 #### NK Cell DDR Dynamics
 
-![NK cell DDR](figures/nkcell_ddr_time.png)
+![NK cell DDR](figures/NK_cells_DDR.png)
 
 ---
 
@@ -122,7 +122,7 @@ Marker scores were calculated for each compartment, and cells were assigned to t
 
 #### Myeloid DDR Dynamics
 
-![Myeloid DDR](figures/myeloid_ddr_time.png)
+![Myeloid DDR](figures/Myeloid_cell_DDR.png)
 
 ---
 
